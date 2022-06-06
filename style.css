@@ -5,15 +5,21 @@ html, body {
 }
 
 .grid {
-  font-size: 30px;
-  margin: 10%;
+  margin: auto;
+  width: 50%
 }
 
 .answer {
+  font-size: 35px;
+  color: white;
+  font-family: Helvetica Neue;
+  font-weight: 600;
   text-align: center;
-  height: 65px;
+  height: 100px;
   width: 15%;
+  background-color: #121214;
   border-style: solid;
+  border-color: #38383a;
   display: inline-block;
   margin-right: 1%;
   margin-left: 0;
